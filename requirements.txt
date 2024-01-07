@@ -1,0 +1,12 @@
+streamlit
+shapely
+fiona
+pyproj
+packaging
+pyarrow
+geopandas
+rioxarray
+leafmap
+ipykernel
+gdal==3.4.1
+localtileserver
